@@ -39,7 +39,7 @@
     "title": "The Complete JavaScript Course 2021: From Zero to Expert!",
     "description": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
     "instructor": "Abdul Aziz",
-    "time": ""
+    "time": "17 hours"
   },
   {
     "image": "https://www.fossmint.com/wp-content/uploads/2020/03/Best-PHP-Courses-for-Beginners.png",
@@ -53,6 +53,6 @@
     "title": "Python for Data Science and Machine Learning Bootcamp",
     "description": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!",
     "instructor": "Ashikur Rahman",
-    "time": "50 hours"
+    "time": "15 hours"
   }
 ]
